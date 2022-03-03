@@ -8,7 +8,6 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 * NPM >= 6.x
 * Make
 
-
 ## Using
 
 ```sh
